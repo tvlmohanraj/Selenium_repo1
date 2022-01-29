@@ -15,7 +15,7 @@ public class Smallest_number {
 				
 				smallest_number=given_numbers[i];
 		}
-		System.out.print("Smallest ssnumber:" +smallest_number);
+		System.out.print("Smallest swesnumber:" +smallest_number);
 	}
 
 }
